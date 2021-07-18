@@ -1,7 +1,9 @@
 # Development
 [Electron](https://electronjs.org)
 
-[Sheilds](https://shields.io/)
+[Shields](https://shields.io/)
+
+[Vue](https://vuejs.org/)
 
 # References
 [Rico's Cheat Sheets](https://devhints.io)
